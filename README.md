@@ -5,7 +5,7 @@
 ## About Project
 * It is an web scraping project that scrapes and extracts translation and synonym from google
 * Chrome Extension is developed using bootstrap framwork and vanilla js
-* The backend is developed in nodejs environment and using puppeteer framework as a scraping tool. It is currently hosted in ![heroku](https://img.icons8.com/color/48/000000/heroku.png)
+* The backend is developed in nodejs environment and using puppeteer framework as a scraping tool. It is currently hosted in heroku ![logo](https://img.icons8.com/color/32/000000/heroku.png)
 
 ## Setup
 
