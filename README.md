@@ -1,6 +1,6 @@
 # Telugu-Translation-Chrome-Extension
 
-> Helps you with quick translation and synonym of an English Word to Telugu Word
+> Helps you with quick translation of an English Word to Telugu word and synonyms
 
 ## About Project
 * It is an web scraping project that scrapes and extracts translation and synonym from google
